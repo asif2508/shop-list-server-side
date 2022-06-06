@@ -1,7 +1,7 @@
 # Shop List
-Live site : [click here](https://household-industrial.web.app/).
+Live site : [click here](https://shop-list001.netlify.app/).
 Or
-Go to this link : [https://household-industrial.web.app/]
+Go to this link : [https://shop-list001.netlify.app/]
 
 ## About This project
 This is ShopList Website. In This website people can search shops according to their needs. People can see the full list of the shops and filter the shops by name, location and area from the search bar. People can also add new shops.
@@ -25,5 +25,5 @@ This is ShopList Website. In This website people can search shops according to t
 ### Tools
 * VsCode
 * GitHub
-* Firebase
+* Netlify
 * Heroku
