@@ -27,5 +27,3 @@ This is ShopList Website. In This website people can search shops according to t
 * GitHub
 * Firebase
 * Heroku
-
-# shop-list-server-side
