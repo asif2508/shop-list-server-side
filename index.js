@@ -42,7 +42,7 @@ async function run() {
             res.send(result);
         })
 
-        app.delete('/shops/:id', async (req, res) => {
+        app.delete('/shows/:id', async (req, res) => {
             const id = req.params.id;
             const query = { id: id }
             const result = await showsCollection.findOne(query);
