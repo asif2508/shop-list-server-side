@@ -44,7 +44,7 @@ async function run() {
 
         app.delete('/shops/:id', async (req, res) => {
             const id = req.params.id;
-            const query = { id: ObjectId(id) }
+            const query = { id: id }
             const result = await showsCollection.findOne(query);
             res.send(result);
         })
